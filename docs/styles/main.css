@@ -9,6 +9,10 @@ h1 {
     text-align: center;
 }
 
+h4 {
+    text-align: center;
+}
+
 #calculator-header {
     background-color: #233659;
     padding: 10px;
